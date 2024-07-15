@@ -1,0 +1,13 @@
+.categorias {
+    background-color: var(--fundoFundo) ;
+    padding-top: 60px;
+    padding-bottom: 45px;
+    display: grid;
+    gap: 50px;
+}
+
+@media (max-width: 767px) {
+  .categorias {
+    padding-top: 10px;
+  }
+}

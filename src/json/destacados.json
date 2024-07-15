@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cómo volverse un desarrollador Front End",
+    "descricao": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+    "imagem": "https://img.youtube.com/vi/-Ou5c3A225k/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/-Ou5c3A225k",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 2,
+    "titulo": "Equipo Front End",
+    "descricao": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+    "imagem": "https://img.youtube.com/vi/rpvrLaBQwgg/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/rpvrLaBQwgg",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 3,
+    "titulo": "Aprende Animaciones con CSS y Scroll Animations sin JavaScript",
+    "descricao": "Aprende sobre el fascinante mundo de las animaciones con CSS y cómo crear sorprendentes efectos de animación al hacer scroll (Scroll Animations), ¡TODO sin una sola línea de JavaScript!",
+    "imagem": "https://img.youtube.com/vi/RwjgfNX41TE/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/RwjgfNX41TE",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 4,
+    "titulo": "Curso de React desde cero: Crea un videojuego y una aplicación para aprender useState y useEffect",
+    "descricao": "¡Aprende a usar useState y useEffect desarrollando el videojuego de 3 en raya!",
+    "imagem": "https://img.youtube.com/vi/qkzcjwnueLA/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/qkzcjwnueLA",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 5,
+    "titulo": "Nodejs Curso Práctico desde Cero (Javascript en el Backend)",
+    "descricao": "Este es un curso de nodejs enfocado en desarrolladores web Frontend principiantes que ya conocen Javascript y HTML, y ahora quieren empezar con su primer lenguaje de backend. En este curso podras usar todo lo que ya conoces de Javascript del navegador pero ahora usado en la creacion de aplicaciones de servidor.",
+    "imagem": "https://img.youtube.com/vi/i3OdKwuBjeM/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/i3OdKwuBjeM",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+  },
+  {
+    "id": 6,
+    "titulo": "JSON (Javascript Object Notation) Curso Completo - Nodejs, & REST APIs",
+    "descricao": "JSON (Javacript Object Notation) es un formato de intercambio de datos bastante popular usando en practicamente la mayoria de aplicaciones modernas de hoy en día. Este formato se usa para poder enviar datos desde aplicaciones servidor a aplicaciones cliente y viceverse. En este curso práctico aprenderemos la Sintaxis, tipos de datos y como utilizarlo en una aplicación web Sencilla.",
+    "imagem": "https://img.youtube.com/vi/LJzDHKPLWYw/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/LJzDHKPLWYw",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+  },
+  {
+    "id": 7,
+    "titulo": "¿Qué es una API? - La mejor explicación en español",
+    "descricao": "Las APIs permiten que las aplicaciones se comuniquen y puedan aprovechar desarrollos ya construidos en lugar de tener que crearlos desde cero. Como desarrollador sí o sí debes aprender a desarrollar y consumir APIs.",
+    "imagem": "https://img.youtube.com/vi/u2Ms34GE14U/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/u2Ms34GE14U",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+  },
+  {
+    "id": 8,
+    "titulo": "¡Guía de CSS Flexbox para aprender de forma sencilla!",
+    "descricao": "Exploraremos una serie de temas fundamentales en CSS que te ayudarán a mejorar tus habilidades de diseño web. Desde el modelo de caja hasta las propiedades de Flexbox, aprenderás conceptos esenciales que te permitirán crear diseños web más atractivos y funcionales. No te pierdas esta oportunidad de fortalecer tus habilidades en CSS",
+    "imagem": "https://img.youtube.com/vi/PSwlAuRbv_A/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/PSwlAuRbv_A",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 9,
+    "titulo": "Gestión de recursos tecnológicos",
+    "descricao": "Este video hace parte de la tecnología: Gestión de Redes de Datos. Para ver todo el programa de formación te invitamos a estar atento a las fechas de inscripción",
+    "imagem": "https://img.youtube.com/vi/bkxr4xMfNJM/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/bkxr4xMfNJM",
+    "categoria": "GESTION",
+    "cor": "#F96DC3"
+  },
+  {
+    "id": 10,
+    "titulo": "Innovación, diseño y tecnología | Jaime Perujo | TEDxRúaSanFroilán",
+    "descricao": "Licenciado en Ingeniería Informática y de origen coruñés, forma parte desde hace casi tres años de la multinacional Google. Es el creador de un manual sobre Marketing Digital focalizado en la Integración y Activación de Datos en diferentes plataformas que ya se usa a nivel europeo.",
+    "imagem": "https://img.youtube.com/vi/6sF0Or9fk9Y/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/6sF0Or9fk9Y",
+    "categoria": "INOVACION",
+    "cor": "#FFBA05"
+  },
+  {
+    "id": 11,
+    "titulo": "Tecnología e innovación: ¿cómo estar un paso adelante que el mercado?",
+    "descricao": "¿Qué tecnologías priorizar en un mundo más digital que nunca? En este extracto del séptimo capítulo de Tendencias que Transforman, José Tafur, socio líder de innovación y tecnología de PwC, nos comenta qué inversiones son indispensables para que las empresas peruanas puedan llegar a un siguiente nivel.",
+    "imagem": "https://img.youtube.com/vi/YbDXu7rSgic/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/YbDXu7rSgic",
+    "categoria": "INOVACION",
+    "cor": "#FFBA05"
+  },
+  {
+    "id": 12,
+    "titulo": "Probé 10 TECNOLOGÍAS del AÑO 2030",
+    "descricao": "Tecnología de Otro Planeta! Los mejores productos y novedades",
+    "imagem": "https://img.youtube.com/vi/IKuwoKgHDXA/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/IKuwoKgHDXA",
+    "categoria": "INOVACION",
+    "cor": "#FFBA05"
+  },
+  {
+    "id": 13,
+    "titulo": "La importancia de la tecnología en los negocios",
+    "descricao": "La importancia de la tecnología en los negocios",
+    "imagem": "https://img.youtube.com/vi/kNLMgff8WHk/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/kNLMgff8WHk",
+    "categoria": "GESTION",
+    "cor": "#F96DC3"
+  },
+  {
+    "id": 14,
+    "titulo": "¿Qué es la Gestión?",
+    "descricao": "Para cambiar este mundo, necesitamos un cambio en las personas y en las organizaciones. Proyecto Seed, es una alternativa para formar en la Gestión Inteligente. ",
+    "imagem": "https://img.youtube.com/vi/btMPiJkf9Eo/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/btMPiJkf9Eo",
+    "categoria": "GESTION",
+    "cor": "#F96DC3"
+  },
+  {
+    "id": 15,
+    "titulo": "Steve Jobs y la forma en que revolucionó la tecnología",
+    "descricao": "Gonzalo Oliveros habla sobre Steve Jobs, su trabajo, los avances tecnológicos que logro y la manera en que cambio la forma en la que las personas se comunican.",
+    "imagem": "https://img.youtube.com/vi/9uhdM8s23bE/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/9uhdM8s23bE",
+    "categoria": "INOVACION",
+    "cor": "#FFBA05"
+  },
+  {
+    "id": 16,
+    "titulo": "¿Por qué necesito un MODELO DE GESTIÓN en MI PYME? con Mikel Eguiazu",
+    "descricao": "Las exigencias del mercado, la alta competencia y la inmediatez con la que se producen los cambios nos obligan a buscar la innovación en la gestión como único camino posible en nuestras organizaciones.  Para ser eficaces, “debemos establecer un modelo de gestión en nuestra pyme enlazando el aspecto económico con el operativo”, explica Eguiazu en el vídeo para La Neurona.!",
+    "imagem": "https://img.youtube.com/vi/XX55wv1QZ_w/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/XX55wv1QZ_w",
+    "categoria": "GESTION",
+    "cor": "#F96DC3"
+  },
+  {
+    "id": 17,
+    "titulo": "¿Qué es la logística? Su importancia en el mundo empresarial",
+    "descricao": "¡Descubre los secretos de la logística empresarial y maximiza tu éxito! En nuestro canal de YouTube, te ofrecemos información valiosa sobre los procesos clave de la logística, desde el transporte y almacenamiento hasta la gestión de inventario y la cadena de suministro.",
+    "imagem": "https://img.youtube.com/vi/M6DhSRjRDdM/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/M6DhSRjRDdM",
+    "categoria": "GESTION",
+    "cor": "#F96DC3"
+  }
+]

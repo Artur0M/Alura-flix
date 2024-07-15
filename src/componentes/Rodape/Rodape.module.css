@@ -1,0 +1,47 @@
+.logo {
+    margin-top: 10px;
+    display: flex; 
+    justify-content: center;
+ }
+
+.rodape {
+    background-color: var(--fundoRodape);
+    padding-top: 42.5px;
+    padding-bottom: 42.5px;
+    border-top: 4px solid var(--corFonte_secundaria);
+    /* box-shadow: 0px -5px 29px 0px var(--boxShadow); */
+}
+
+.texto {
+    color: var(--corFonte_primaria);
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+
+
+
+@media (max-width: 767px) {
+    .rodape {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        /* display: none; */
+    }
+    
+    .texto {
+        font-size: 1rem;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .rodape {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
+    .texto {
+        font-size: 0.8rem;
+    }
+}
